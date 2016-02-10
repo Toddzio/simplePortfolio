@@ -1,5 +1,13 @@
 body {
-background-image: url ("images/1.jpg");
+	background-image: url("file:///home/toddzio/code/wdi/myWebsites/simplePortfolio/images/1.jpg");
+	background-size: cover;
 }
-p {font-color: blue ;
+h1 {
+	text-align: center;
+	color: #cc5200;
+	text-shadow: black 1px 2px 2px;
 }
+p {
+	color: #cc5200;
+}
+	
