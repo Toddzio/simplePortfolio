@@ -1,13 +1,25 @@
 body {
 	background-image: url("file:///home/toddzio/code/wdi/myWebsites/simplePortfolio/images/1.jpg");
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 h1 {
 	text-align: center;
-	color: #cc5200;
+	color: white;
+	text-shadow: black 1px 2px 2px;
+}
+h2 {
+	text-align: center;
+	color: white;
 	text-shadow: black 1px 2px 2px;
 }
 p {
-	color: #cc5200;
+	color: white;
+	text-shadow: black 1px 2px 3px;
+	font-size: 18px;
 }
-	
+ul {
+	color: white;
+	text-shadow: black 1px 2px 3px;
+	font-size: 18px;
+}
